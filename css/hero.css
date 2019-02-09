@@ -7,6 +7,7 @@ header{
 	background-color: #ffcc00;
 	padding: 40px;
 	text-align: center;
+	height:600px;
 }
 
 h1{
@@ -15,22 +16,30 @@ h1{
 }
 
 header img{
-	border-radius: 174x;
+	
 	width: 300px;
-	border: 25px solid #000000;
 
 }
 
 .content{
+	display: flex;
+  flex-flow: row wrap;
 	max-width: 400;
 	margin: 0 auto;
 	background-color: black;
 	padding:0 20px;
 	color:white;
+	
 
 }
+.text{
+text-align: center;
+
+}
+
 img.big-image{
-	max-width: 100%
+	max-width: 50%;
+	left;
 
 }
 p.caption{
