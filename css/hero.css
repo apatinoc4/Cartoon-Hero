@@ -86,7 +86,7 @@ h2{
         display: flex;
        flex-direction: row;
        padding:50px 20px;
-       height: 500px
+       height: 250px
       }
 
 .pic1 {
@@ -116,7 +116,7 @@ h3{
 	color: white;
 	font-size: 60px;
 	text-align: center;
-	height:400px;
+
 }
 .player{
 flex: 1 1 auto;
